@@ -1,0 +1,1 @@
+print("Yurechko Andrii, IPZ-2, 3 group")
